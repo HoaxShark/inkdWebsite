@@ -1,3 +1,3 @@
 # INK'D Website!
 
-link: 
+link:  https://hoaxshark.github.io/inkdWebsite/
